@@ -1,0 +1,10 @@
+@import './styles/variable.scss';
+@import './styles/bootstrap-override.scss';
+@import './styles/app-styles.scss';
+@import './styles/material-override.scss';
+
+
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Georgia, 'Times New Roman', Times, serif; }
